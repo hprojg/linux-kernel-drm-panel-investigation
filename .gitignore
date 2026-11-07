@@ -1,0 +1,13 @@
+
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.d
+*.a
+*.so
+*.pyc
+__pycache__/
+build/*
+!build/arm64-build-guide.md
